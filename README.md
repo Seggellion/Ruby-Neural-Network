@@ -24,7 +24,7 @@ The sales prediction model is built with Ruby and utilizes the `nmatrix` library
 
 1. Clone this repository to your local machine:
    ```ruby
-   git clone https://github.com/yourusername/sales-prediction-neural-network.git
+   git clone [https://github.com/Duck-Shopify/sales_prediction_nn.git]
    ```
 2. Navigate to the project directory:
    ```ruby
